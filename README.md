@@ -16,8 +16,9 @@ Panto is a modern, responsive furniture e-commerce frontend built with Angular 2
 ---
 
 ## ✨ Features
+
 - 🎨 **Modern UI inspired by a Figma design** | Built with Angular 20, Tailwind CSS, and PrimeNG for toast notifications.<br>
-- 🌐 **Live API Integration** | Uses https://furniture-api.fly.dev/ for dynamic product data via HttpClient and RxJS.<br>
+<!-- - 🌐 **Live API Integration** | Uses https://furniture-api.fly.dev/ for dynamic product data via HttpClient and RxJS.<br> -->
 - 🛍️ **E-commerce Functionality** | Includes product filtering, keyword search, wishlist, and cart management.<br>
 - 🧠 **State Management with NgRx** | Powered by NgRx Store and Effects, with localStorage persistence for Wishlist and Cart.<br>
 - 📱 **Responsive Design** | Optimized for all devices — from mobile to desktop.<br>
